@@ -1,0 +1,11 @@
+---
+  domain: otus.lan
+  server: server.otus.lan
+  ipserver: 192.168.11.150
+  client: client.otus.lan
+  ipclient: 192.168.11.151
+  search: otus.lan
+  realm: OTUS.LAN
+  admin: admin
+  password: Pass123!
+  dbpassword: 123Pass!
